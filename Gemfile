@@ -13,7 +13,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'bcrypt', '~> 3.1.7'
 gem 'has_secure_token'
-gem 'faker'
+gem 'pry'
 
 group :development, :test do
   gem 'pry-byebug'
