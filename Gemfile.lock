@@ -203,7 +203,6 @@ DEPENDENCIES
   has_secure_token
   jbuilder (~> 2.0)
   jquery-rails
-  pry
   pry-byebug
   rails (= 4.2.7.1)
   rspec-activemodel-mocks
@@ -220,4 +219,4 @@ DEPENDENCIES
   webmock
 
 BUNDLED WITH
-   1.13.7
+   1.14.2
