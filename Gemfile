@@ -12,7 +12,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'bcrypt', '~> 3.1.7'
-gem 'has_secure_token'
+gem "has_secure_token"
 
 group :development, :test do
   gem 'pry-byebug'
