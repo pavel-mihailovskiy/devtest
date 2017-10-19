@@ -22,6 +22,7 @@ group :development do
   gem 'spring'
 end
 
+
 group :test do
   gem 'rspec-activemodel-mocks'
   gem 'rspec-collection_matchers'
