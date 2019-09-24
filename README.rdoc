@@ -6,4 +6,15 @@ application up and running.
 Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+
 <tt>rake doc:app</tt>.
